@@ -10,6 +10,7 @@ namespace SimpleApp1
     {
         static void Main(string[] args)
         {
+            // comment
         }
     }
 }
