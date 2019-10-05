@@ -11,6 +11,17 @@ namespace SimpleApp1
         static void Main(string[] args)
         {
             // comment
+            SomeShit.Log("a message");
         }
     }
+
+    static class SomeShit
+    {
+        public static void Log(string msg)
+        {
+            Console.WriteLine(msg);
+        }
+    }
+
+
 }
