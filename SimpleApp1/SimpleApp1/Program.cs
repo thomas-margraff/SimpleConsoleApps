@@ -17,6 +17,7 @@ namespace SimpleApp1
 
     static class SomeShit
     {
+        // should show up in branch1
         public static void Log(string msg)
         {
             Console.WriteLine(msg);
