@@ -14,6 +14,8 @@ namespace SimpleApp1
             SomeShit.Log("a message");
 
             // code to call feature1
+
+            // add code to call feature 2
         }
     }
 
