@@ -12,6 +12,8 @@ namespace SimpleApp1
         {
             // comment
             SomeShit.Log("a message");
+
+            // code to call feature1
         }
     }
 
