@@ -23,6 +23,4 @@ namespace SimpleApp1
             Console.WriteLine(msg);
         }
     }
-
-
 }
