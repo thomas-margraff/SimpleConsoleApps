@@ -20,6 +20,7 @@ namespace SimpleApp1
         // should show up in branch1
         public static void Log(string msg)
         {
+            // write liine comment
             Console.WriteLine(msg);
         }
     }
