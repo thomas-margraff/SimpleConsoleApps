@@ -12,16 +12,18 @@ namespace SimpleApp1
         {
             // comment
             SomeShit.Log("a message");
+
+            // code to call feature1
         }
     }
 
     static class SomeShit
     {
+        // should show up in branch1
         public static void Log(string msg)
         {
+            // write liine comment
             Console.WriteLine(msg);
         }
     }
-
-
 }
